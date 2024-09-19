@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
                 radius: 50,
                 backgroundImage: AssetImage("assets/images/angela.jpg"),
               ),
-              Text("Angela Yu",
+              Text("Linh PTM",
               style: TextStyle(
                 fontFamily: 'Pacifico',
                 fontSize: 40,
@@ -49,7 +49,7 @@ class MyApp extends StatelessWidget {
                   padding: const EdgeInsets.all(10.0),
                   child: ListTile(
                     leading:  Icon(Icons.phone, color: Colors.teal,),
-                    title: Text('+22 783 389', style: TextStyle(
+                    title: Text('+8477 506 066', style: TextStyle(
                             color: Colors.teal.shade900,
                             fontFamily: 'Source Sans Pro',
                             fontSize: 20),
@@ -64,7 +64,7 @@ class MyApp extends StatelessWidget {
                   padding: const EdgeInsets.all(10.0),
                   child: ListTile(
                     leading:  Icon(Icons.mail, color: Colors.teal,),
-                    title: Text('votheluc01@gmail.com', style: TextStyle(
+                    title: Text('linhptm@gmail.com', style: TextStyle(
                         color: Colors.teal.shade900,
                             fontFamily: 'Source Sans Pro',
                             fontSize: 20),
